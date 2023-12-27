@@ -76,6 +76,10 @@ main {
     border-radius: .5rem;
     color: white;
     font-family: 'Montserrat';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .5rem;
 }
 
 .texts > a:hover {
